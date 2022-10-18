@@ -1,6 +1,6 @@
 ---
 title: Azure Monitor エージェントを使用した Azure Monitor VM insights の有効化 (プレビュー)
-date:
+date: 2022-10-19 00:00:00
 tags:
  - How-To
  - Log Analytics
@@ -65,7 +65,7 @@ https://learn.microsoft.com/ja-jp/azure/azure-monitor/vm/vminsights-enable-porta
 
 2. 左端の [分析情報] メニューにあります [仮想マシン] を選択してください。
 
-3. [概要] タブにあります [監視対象外] の VM から監視対象としたい VM を探し、[有効にする] をクリックしてください。
+3. [概要] タブにあります [監視対象外] の VM から監視対象としたい VM を探し、[有効にする] をクリックしてください。  
 ![手順 3](./Azure_Monitor_VM_insights_using _AMA/3-enable.png)
 
 4. 遷移後の画面で [有効] をクリックしてください。すると、[監視の構成] という画面に遷移します。
